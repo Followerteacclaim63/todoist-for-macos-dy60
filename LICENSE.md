@@ -1,4 +1,4 @@
-#  
+#  best Todoist for macOS Script | widgets + dark mode is the best Todoist for macOS script, featuring widgets and dark mode. Safe, efficient, and optimized for macOS users.
 
 
 
